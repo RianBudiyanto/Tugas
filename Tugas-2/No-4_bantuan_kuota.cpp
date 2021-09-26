@@ -1,5 +1,4 @@
-//Program untuk menghitung biaya yang harus dikeluarkan oleh 
-pemerintah
+//Program untuk menghitung biaya yang harus dikeluarkan oleh pemerintah
 #include <iostream>
 using namespace std;
 
